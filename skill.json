@@ -1,0 +1,14 @@
+{
+  "name": "genpark-dynamo-sloppy-quorum-hinted-handoff-skill",
+  "version": "1.0.0",
+  "description": "Dynamo sloppy quorum and hinted handoff coordination engine providing high write availability under network partitions.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "dynamo-storage",
+    "sloppy-quorum",
+    "hinted-handoff",
+    "high-availability",
+    "eventual-consistency"
+  ]
+}
